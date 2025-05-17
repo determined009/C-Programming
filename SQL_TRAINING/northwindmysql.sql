@@ -13,7 +13,7 @@ File Encoding         : 65001
 Date: 2016-04-27 13:53:24
 */
 
-DROP SCHEMA
+DROP SCHEM
 
 IF EXISTS northwind;
 	CREATE SCHEMA northwind COLLATE = utf8_general_ci;
